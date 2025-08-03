@@ -9,9 +9,9 @@
 
 🎯 I'm a process-focused engineer with 3+ years of experience in driving workflow optimization, defect reduction, and performance analysis using Lean Six Sigma methodology.  
 
-🚀 I recently ventured into cloud automation and successfully built a **one-tap mobile solution to control AWS EC2 instances** using **Lambda, API Gateway, IAM, and Android** — combining my core strength in efficiency with modern cloud tooling.
+⚙️ I’m passionate about **using technology to eliminate inefficiencies**, streamline operations, and build intelligent systems. Whether it's automating tasks with Python, optimizing cloud workflows, integrating mobile-based triggers, or designing scalable solutions. I enjoy solving problems that blend logic, creativity, and impact.
 
-🧪 I enjoy solving problems at the intersection of operations, automation, and self-learning.
+🧪 I believe in building solutions that are not just functional, but meaningful, automating what should be automated, optimizing what should be improved, and simplifying what should be understood.
 
 ---
 
