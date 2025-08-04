@@ -46,7 +46,7 @@ Built a privacy-first VPN system with full and split-tunneling options. Combines
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rehanxahmad&show_icons=true&theme=default" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanxahmad&layout=compact" width="340" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanxahmad" width="340" />
 </p>
 
 <p align="center">
